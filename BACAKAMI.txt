@@ -1,0 +1,20 @@
+ADMINISTRATOR
+====================
+username  = admin
+password  = 12345678
+
+AGEN
+====================
+username  = agen
+password  = 12345678
+
+
+KETERANGAN JUMLAH METER
+========================
+1. Jika jumlah meter akhir < daripada meter awal = maka jumlah meter (kosong)
+2. Jika jumlah meter akhir > daripada meter awal = meter akhir - meter awal (hasil)
+
+
+TOTAL TAGIHAN
+========================
+TARIF x JUMLAH METER
